@@ -11,8 +11,5 @@ AdminLTE中文
 ========
 ![日历](https://github.com/flowstone/AdminLTE-cn/blob/master/dist/prev/calendar.png)
 
-License
--------
-AdminLTE is an open source project by [Almsaeed Studio](https://almsaeedstudio.com) that is licensed under [MIT](http://opensource.org/licenses/MIT). Almsaeed Studio
-reserves the right to change the license of future releases.
+
 
