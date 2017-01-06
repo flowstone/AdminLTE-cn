@@ -11,5 +11,7 @@ AdminLTE中文
 ========
 ![日历](https://github.com/flowstone/AdminLTE-cn/blob/master/dist/prev/calendar.png)
 
+![index](https://github.com/flowstone/AdminLTE-cn/blob/master/dist/prev/20170106.png)
+
 
 
