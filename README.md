@@ -9,13 +9,13 @@ AdminLTE中文
 
 翻译页面
 ========
-![日历](https://github.com/flowstone/AdminLTE-cn/blob/master/dist/prev/calendar.png)
-
-![index](https://github.com/flowstone/AdminLTE-cn/blob/master/dist/prev/20170106.png)
-
-![小部件](https://github.com/flowstone/AdminLTE-cn/blob/master/dist/prev/20170106-1.png)
+![日历](https://github.com/flowstone/AdminLTE-cn/blob/master/dist/prev/20170106.gif)
 
 
 更新说明
 ========
-* 各个页面基本翻译完成，
+* 各个页面基本翻译完成
+
+特殊说明
+========
+此仓库代码更新完成，停止更新
