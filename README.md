@@ -13,5 +13,9 @@ AdminLTE中文
 
 ![index](https://github.com/flowstone/AdminLTE-cn/blob/master/dist/prev/20170106.png)
 
+![小部件](https://github.com/flowstone/AdminLTE-cn/blob/master/dist/prev/20170106-1.png)
 
 
+更新说明
+========
+* 各个页面基本翻译完成，
