@@ -8,11 +8,11 @@ AdminLTE中文
 本人英语水平一般,如果有错误请提交Issues,提交代码请到Pull requests,谢谢合作。
 
 
-# [预览地址](http://adminlte.xueyao.org/index.html)
+## =》[预览地址](http://adminlte.xueyao.org/index.html)
 
 翻译页面
 ========
-![预览图](http://adminlte.xueyao.org/dist/prev/20170106.gif)
+![预览图](https://github.com/flowstone/AdminLTE-cn/blob/master/dist/prev/20170106.gif)
 
 
 更新说明
