@@ -12,7 +12,7 @@ AdminLTE中文
 
 翻译页面
 ========
-![预览图](http://adminlte.xueyao.org/dist/prev/20170106.gif)
+![预览图](https://github.com/flowstone/AdminLTE-cn/blob/master/dist/prev/20170106.gif)
 
 
 更新说明
